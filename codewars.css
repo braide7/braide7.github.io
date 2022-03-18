@@ -1,0 +1,15 @@
+body{
+    background-color: lightsteelblue;
+    color:gray;
+}
+table, tr, td, th{
+    border:teal solid 2px;
+    border-collapse: collapse;
+    padding: 2px;
+}
+a:link{
+    color:lightblue;
+}
+a:visited{
+    color: blue
+}

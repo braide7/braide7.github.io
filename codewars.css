@@ -8,7 +8,7 @@ table, tr, td, th{
     padding: 2px;
 }
 a:link{
-    color:rgba(7, 111, 247, 0.712);
+    color:lightblue;
 }
 a:visited{
     color: darkblue
